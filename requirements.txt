@@ -1,0 +1,7 @@
+streamlit==0.88.0
+Pillow  
+ml
+numpy
+pandas
+nn_adam
+nn_sgd
