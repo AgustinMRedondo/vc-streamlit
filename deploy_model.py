@@ -8,7 +8,6 @@
 # Python libraries
 import streamlit as st
 from PIL import Image
-import sklearn
 
 # User module files
 from ml import ml
