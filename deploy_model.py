@@ -31,7 +31,7 @@ def main():
 
     if ( choice == 'Home' ):
       st.title("Hey VC lazy guy, here again? Let's figure out if that company worths an investment")
-      st.image('./images/vc_meme.jpeg')
+      st.image('./images/portada.png')
       st.text("Disclaimer: this is a trial version 1.0.0 with Crunchbase public data up to 2016. It's not recommended to invest only guiding in the model predictions")
       pass
 
