@@ -15,6 +15,11 @@ from ml import ml
 from nn_adam import nn_adam
 from nn_sgd import nn_sgd
 
+import sys
+import pkg_resources
+
+print("Python version:", sys.version)
+print("Installed packages:", [package.key for package in pkg_resources.working_set])
 
 def main():
 
