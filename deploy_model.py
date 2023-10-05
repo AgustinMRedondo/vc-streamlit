@@ -30,7 +30,9 @@ def main():
     choice = st.sidebar.selectbox("Menu",options, key = '1')
 
     if ( choice == 'Home' ):
-      st.title("Hey VC lazy guy, here again? Let's figure out if that company worths an investment")
+      st.title("Using AI and data to invest in start-up")
+      st.text ("Contact: agustin@redondoarena.com")
+      st.text ("Choose the model that you prefer on the left side, and check what the models predict about your companies")  
       st.image('./images/portada.png')
       st.text("Disclaimer: this is a trial version 1.0.0 with Crunchbase public data up to 2016. It's not recommended to invest only guiding in the model predictions")
       pass
