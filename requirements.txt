@@ -3,4 +3,4 @@ Pillow
 numpy
 pandas
 pickle
-sklearn==0.24.2
+scikit-learn
