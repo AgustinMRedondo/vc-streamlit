@@ -4,3 +4,4 @@ numpy
 pandas
 pickle
 scikit-learn
+python==3.9
