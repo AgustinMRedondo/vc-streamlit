@@ -8,7 +8,7 @@ from PIL import Image
 
 def ml():
 
-    st.image('images/logistic_regression.jpg')
+    #st.image('images/logistic_regression.jpg')
     st.title("Predictions with Linear Regression Model")
 
     # loading the model
